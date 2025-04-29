@@ -248,20 +248,20 @@ TextureImporter:
       name: Acordeon2_0
       rect:
         serializedVersion: 2
-        x: 11
-        y: 848
-        width: 78
-        height: 176
+        x: 12
+        y: 849
+        width: 76
+        height: 175
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 06c1d65e540adf140800000000000000
-      internalID: 4755133003635432544
+      spriteID: 5d1e8419bba74044293f1e12bbdb42b0
+      internalID: 229502987
       vertices: []
       indices: 
       edges: []
@@ -270,20 +270,20 @@ TextureImporter:
       name: Acordeon2_1
       rect:
         serializedVersion: 2
-        x: 79
-        y: 828
-        width: 202
-        height: 196
+        x: 80
+        y: 829
+        width: 200
+        height: 195
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: de2e45e6c21bd9be0800000000000000
-      internalID: -1468823099065179411
+      spriteID: 3274a2f8c66bf3a46b76d894682d3f62
+      internalID: -898651581
       vertices: []
       indices: 
       edges: []
@@ -292,20 +292,20 @@ TextureImporter:
       name: Acordeon2_2
       rect:
         serializedVersion: 2
-        x: 79
-        y: 971
-        width: 10
-        height: 21
+        x: 80
+        y: 972
+        width: 8
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 38e221b8b5648f290800000000000000
-      internalID: -7856452190958637437
+      spriteID: 92a261b9365bf4b4bb85f9597f594cd1
+      internalID: -1632869514
       vertices: []
       indices: 
       edges: []
@@ -314,20 +314,20 @@ TextureImporter:
       name: Acordeon2_3
       rect:
         serializedVersion: 2
-        x: 79
-        y: 919
-        width: 10
-        height: 6
+        x: 80
+        y: 920
+        width: 8
+        height: 4
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 148bf2640d85604f0800000000000000
-      internalID: -862904627040896959
+      spriteID: 55aa5017b5c9d7240b6ab8ec5fe64e87
+      internalID: -1213045761
       vertices: []
       indices: 
       edges: []
@@ -336,20 +336,20 @@ TextureImporter:
       name: Acordeon2_4
       rect:
         serializedVersion: 2
-        x: 80
-        y: 940
-        width: 8
-        height: 10
+        x: 81
+        y: 941
+        width: 6
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 14d013c8d9d2c50f0800000000000000
-      internalID: -1126975652064326335
+      spriteID: 8dd02455bd244c5409b02406ecb20461
+      internalID: -800071003
       vertices: []
       indices: 
       edges: []
@@ -358,20 +358,20 @@ TextureImporter:
       name: Acordeon2_5
       rect:
         serializedVersion: 2
-        x: 81
-        y: 1005
-        width: 8
-        height: 9
+        x: 82
+        y: 1006
+        width: 6
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 7b9dd67e24fc3ed40800000000000000
-      internalID: 5612557446891297207
+      spriteID: ac190269c043f3b44baafc0abab44779
+      internalID: 193811953
       vertices: []
       indices: 
       edges: []
@@ -380,20 +380,20 @@ TextureImporter:
       name: Acordeon2_6
       rect:
         serializedVersion: 2
-        x: 81
-        y: 991
-        width: 8
-        height: 8
+        x: 82
+        y: 992
+        width: 6
+        height: 6
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: fb16e13885f5a84a0800000000000000
-      internalID: -6590350270941732417
+      spriteID: 954f482d618ed324f8e3ef41c49361b5
+      internalID: -100833068
       vertices: []
       indices: 
       edges: []
@@ -402,20 +402,20 @@ TextureImporter:
       name: Acordeon2_7
       rect:
         serializedVersion: 2
-        x: 81
-        y: 949
-        width: 8
-        height: 16
+        x: 82
+        y: 950
+        width: 6
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a4b2091cd91ca5a60800000000000000
-      internalID: 7663650599225797450
+      spriteID: e7297d9b0645cc8428a1d7833869d06e
+      internalID: 1512961759
       vertices: []
       indices: 
       edges: []
@@ -424,20 +424,20 @@ TextureImporter:
       name: Acordeon2_8
       rect:
         serializedVersion: 2
-        x: 81
-        y: 895
-        width: 8
-        height: 7
+        x: 82
+        y: 896
+        width: 6
+        height: 5
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a5155ac9a21919d00800000000000000
-      internalID: 977722206318842202
+      spriteID: cdbfe9163df10d646a55345cdb41653e
+      internalID: -2015372820
       vertices: []
       indices: 
       edges: []
@@ -446,20 +446,20 @@ TextureImporter:
       name: Acordeon2_9
       rect:
         serializedVersion: 2
-        x: 81
-        y: 867
-        width: 8
-        height: 18
+        x: 82
+        y: 868
+        width: 6
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: d7ed4aad8c1b98a50800000000000000
-      internalID: 6523941011442687613
+      spriteID: 77a60198ca73ff54991653df0661cc3c
+      internalID: -105290726
       vertices: []
       indices: 
       edges: []
@@ -468,20 +468,20 @@ TextureImporter:
       name: Acordeon2_10
       rect:
         serializedVersion: 2
-        x: 83
-        y: 998
-        width: 6
-        height: 9
+        x: 84
+        y: 999
+        width: 4
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 92d2eeddedab07150800000000000000
-      internalID: 5868395780832636201
+      spriteID: 6d71dc99b20faca4a9093afb69143198
+      internalID: -288625799
       vertices: []
       indices: 
       edges: []
@@ -490,20 +490,20 @@ TextureImporter:
       name: Acordeon2_11
       rect:
         serializedVersion: 2
-        x: 83
-        y: 964
-        width: 6
-        height: 9
+        x: 84
+        y: 965
+        width: 4
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 0bc5bdc5949837bf0800000000000000
-      internalID: -327767399684416336
+      spriteID: 9233fd0eb48da42428fd6c634ea2c366
+      internalID: -1699092976
       vertices: []
       indices: 
       edges: []
@@ -512,20 +512,20 @@ TextureImporter:
       name: Acordeon2_12
       rect:
         serializedVersion: 2
-        x: 83
-        y: 854
-        width: 6
-        height: 7
+        x: 84
+        y: 855
+        width: 4
+        height: 5
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: f48c3295e93aed840800000000000000
-      internalID: 5250814116056254543
+      spriteID: 5adc77659ce775c49b247843f1437e93
+      internalID: 2049715298
       vertices: []
       indices: 
       edges: []
@@ -534,20 +534,20 @@ TextureImporter:
       name: Acordeon2_13
       rect:
         serializedVersion: 2
-        x: 317
-        y: 0
-        width: 634
-        height: 1024
+        x: 318
+        y: 1
+        width: 632
+        height: 1023
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a7700cf9ca73e4ff0800000000000000
-      internalID: -50041331300432006
+      spriteID: 3850d8a85d1b1184cb260bf3a4d26946
+      internalID: 1454664244
       vertices: []
       indices: 
       edges: []
@@ -556,20 +556,20 @@ TextureImporter:
       name: Acordeon2_14
       rect:
         serializedVersion: 2
-        x: 964
-        y: 819
-        width: 83
-        height: 205
+        x: 965
+        y: 820
+        width: 81
+        height: 204
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 9da49a2d34bcab410800000000000000
-      internalID: 1493729718584298201
+      spriteID: 7c27a0fcd6c6e914785d9bd15dee232d
+      internalID: -615324944
       vertices: []
       indices: 
       edges: []
@@ -578,20 +578,20 @@ TextureImporter:
       name: Acordeon2_15
       rect:
         serializedVersion: 2
-        x: 994
-        y: 944
-        width: 7
-        height: 17
+        x: 995
+        y: 945
+        width: 5
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 9fe517641ade59d70800000000000000
-      internalID: 9049400303198232313
+      spriteID: 0096671754a217344ad3fe4c45d5e13c
+      internalID: -261989451
       vertices: []
       indices: 
       edges: []
@@ -600,20 +600,20 @@ TextureImporter:
       name: Acordeon2_16
       rect:
         serializedVersion: 2
-        x: 1041
-        y: 991
-        width: 6
-        height: 9
+        x: 1042
+        y: 992
+        width: 4
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 69f644f2f5f6b2a90800000000000000
-      internalID: -7337648713264500842
+      spriteID: 8da44f3a08cb258459c8431bb8fb4e6e
+      internalID: -737332446
       vertices: []
       indices: 
       edges: []
@@ -622,20 +622,20 @@ TextureImporter:
       name: Acordeon2_17
       rect:
         serializedVersion: 2
-        x: 1041
-        y: 976
-        width: 6
-        height: 8
+        x: 1042
+        y: 977
+        width: 4
+        height: 6
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a2062cca024f05aa0800000000000000
-      internalID: -6174166667950399446
+      spriteID: b8f6e9304349a5b4383b5c37401af554
+      internalID: 2132497736
       vertices: []
       indices: 
       edges: []
@@ -644,20 +644,20 @@ TextureImporter:
       name: Acordeon2_18
       rect:
         serializedVersion: 2
-        x: 1064
-        y: 9
-        width: 460
-        height: 1015
+        x: 1065
+        y: 10
+        width: 458
+        height: 1013
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a6de8643907896790800000000000000
-      internalID: -7536344027824067222
+      spriteID: 1e346805bd56df740bf10e23c65d9b1e
+      internalID: -1548546342
       vertices: []
       indices: 
       edges: []
@@ -668,18 +668,18 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 309
-        height: 831
+        width: 306
+        height: 830
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 2fbefa42075048df0800000000000000
-      internalID: -179012105977992206
+      spriteID: 409f6755a4fc6354bbc52ab9b0d33298
+      internalID: 1980717234
       vertices: []
       indices: 
       edges: []
@@ -688,20 +688,20 @@ TextureImporter:
       name: Acordeon2_20
       rect:
         serializedVersion: 2
-        x: 298
-        y: 198
-        width: 333
-        height: 624
+        x: 301
+        y: 200
+        width: 329
+        height: 617
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 382afcd657b62b920800000000000000
-      internalID: 3004582053507211907
+      spriteID: 7c20cd6b368d9a94b8e4193e9f85d161
+      internalID: 943682958
       vertices: []
       indices: 
       edges: []
@@ -710,20 +710,20 @@ TextureImporter:
       name: Acordeon2_21
       rect:
         serializedVersion: 2
-        x: 929
+        x: 930
         y: 0
-        width: 290
-        height: 820
+        width: 288
+        height: 819
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 55eae530545100080800000000000000
-      internalID: -9223348650701312427
+      spriteID: 9a552500d0dc41f46858a7285c462f38
+      internalID: -987098013
       vertices: []
       indices: 
       edges: []
@@ -732,20 +732,20 @@ TextureImporter:
       name: Acordeon2_22
       rect:
         serializedVersion: 2
-        x: 81
-        y: 182
-        width: 8
-        height: 9
+        x: 82
+        y: 183
+        width: 6
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: efd5f5ba6181aecb0800000000000000
-      internalID: -4834024764385305090
+      spriteID: c465363a34248d34aa49231eb9c13828
+      internalID: -434475010
       vertices: []
       indices: 
       edges: []
@@ -754,20 +754,20 @@ TextureImporter:
       name: Acordeon2_23
       rect:
         serializedVersion: 2
-        x: 995
-        y: 187
-        width: 6
-        height: 7
+        x: 996
+        y: 188
+        width: 4
+        height: 5
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 7535bf2e7e94f74c0800000000000000
-      internalID: -4287627059939028137
+      spriteID: d3f9dbca15de7a74c8d92c98675cb262
+      internalID: 357266466
       vertices: []
       indices: 
       edges: []
@@ -776,20 +776,20 @@ TextureImporter:
       name: Acordeon2_24
       rect:
         serializedVersion: 2
-        x: 83
-        y: 166
-        width: 6
-        height: 9
+        x: 84
+        y: 167
+        width: 4
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 3e233a8704c8c4c30800000000000000
-      internalID: 4345001949035442915
+      spriteID: 83e44576cb1474749b009c26ce3c3a02
+      internalID: -1546140763
       vertices: []
       indices: 
       edges: []
@@ -798,20 +798,20 @@ TextureImporter:
       name: Acordeon2_25
       rect:
         serializedVersion: 2
-        x: 995
-        y: 154
-        width: 6
-        height: 7
+        x: 996
+        y: 155
+        width: 4
+        height: 5
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 0989132c57c17c4c0800000000000000
-      internalID: -4267410829815474032
+      spriteID: c290a47a283ee7a46a43dd65e69f3c19
+      internalID: 934634862
       vertices: []
       indices: 
       edges: []
@@ -820,20 +820,20 @@ TextureImporter:
       name: Acordeon2_26
       rect:
         serializedVersion: 2
-        x: 81
-        y: 142
-        width: 8
-        height: 9
+        x: 82
+        y: 143
+        width: 6
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 7906ad08c71811f10800000000000000
-      internalID: 2238712861517570199
+      spriteID: fb1707fbc8213f94fbc5aa255f5af671
+      internalID: 1487591913
       vertices: []
       indices: 
       edges: []
@@ -842,20 +842,20 @@ TextureImporter:
       name: Acordeon2_27
       rect:
         serializedVersion: 2
-        x: 995
-        y: 147
-        width: 6
-        height: 6
+        x: 996
+        y: 148
+        width: 4
+        height: 4
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 2c15cbf9e815418a0800000000000000
-      internalID: -6335349102796320318
+      spriteID: 8e3903ba625891b4f8884d657bae37d9
+      internalID: -2088873998
       vertices: []
       indices: 
       edges: []
@@ -864,20 +864,20 @@ TextureImporter:
       name: Acordeon2_28
       rect:
         serializedVersion: 2
-        x: 79
-        y: 126
-        width: 10
-        height: 7
+        x: 80
+        y: 127
+        width: 8
+        height: 5
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 180dfa64d5e564cc0800000000000000
-      internalID: -3727187886891609983
+      spriteID: b64ea3cec96d4724db57a665efd68440
+      internalID: 563111708
       vertices: []
       indices: 
       edges: []
@@ -886,20 +886,20 @@ TextureImporter:
       name: Acordeon2_29
       rect:
         serializedVersion: 2
-        x: 81
-        y: 131
-        width: 7
-        height: 9
+        x: 82
+        y: 132
+        width: 5
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 15e3cec456e5445a0800000000000000
-      internalID: -6537996969859858863
+      spriteID: e1ba217dc77989b40990c35cabfcadbd
+      internalID: -199794944
       vertices: []
       indices: 
       edges: []
@@ -908,20 +908,20 @@ TextureImporter:
       name: Acordeon2_30
       rect:
         serializedVersion: 2
-        x: 79
-        y: 86
-        width: 10
-        height: 20
+        x: 80
+        y: 87
+        width: 8
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b0fb790adfc730590800000000000000
-      internalID: -7709180708365287669
+      spriteID: f08b2482bfa99a649985616097039b03
+      internalID: 577681716
       vertices: []
       indices: 
       edges: []
@@ -930,20 +930,20 @@ TextureImporter:
       name: Acordeon2_31
       rect:
         serializedVersion: 2
-        x: 1041
-        y: 95
-        width: 6
-        height: 7
+        x: 1042
+        y: 96
+        width: 4
+        height: 5
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a26d71fea0e6d8650800000000000000
-      internalID: 6236762052218050090
+      spriteID: 94803275f3b7c7a47a09cf6d7fa876b7
+      internalID: 929903766
       vertices: []
       indices: 
       edges: []
@@ -952,20 +952,20 @@ TextureImporter:
       name: Acordeon2_32
       rect:
         serializedVersion: 2
-        x: 82
-        y: 68
-        width: 7
-        height: 8
+        x: 83
+        y: 69
+        width: 5
+        height: 6
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a2cf1047bc55105d0800000000000000
-      internalID: -3098100736341181398
+      spriteID: 100b12623a28e3b44971660f13f9d2d2
+      internalID: -1448788245
       vertices: []
       indices: 
       edges: []
@@ -974,20 +974,20 @@ TextureImporter:
       name: Acordeon2_33
       rect:
         serializedVersion: 2
-        x: 995
-        y: 74
-        width: 6
-        height: 6
+        x: 996
+        y: 75
+        width: 4
+        height: 4
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 97afadf705b932e70800000000000000
-      internalID: 9089279243008539257
+      spriteID: 793f9c27a4a9a3a40872a86361d67407
+      internalID: 1418048671
       vertices: []
       indices: 
       edges: []
@@ -996,20 +996,20 @@ TextureImporter:
       name: Acordeon2_34
       rect:
         serializedVersion: 2
-        x: 82
-        y: 59
-        width: 7
-        height: 10
+        x: 83
+        y: 60
+        width: 5
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 2d60441f350fef840800000000000000
-      internalID: 5259905658136037074
+      spriteID: 7a114541c7637514d8444a360807a00c
+      internalID: 533247326
       vertices: []
       indices: 
       edges: []
@@ -1018,20 +1018,20 @@ TextureImporter:
       name: Acordeon2_35
       rect:
         serializedVersion: 2
-        x: 82
-        y: 53
-        width: 7
-        height: 8
+        x: 83
+        y: 54
+        width: 5
+        height: 6
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 2a53c6077269ed190800000000000000
-      internalID: -7935740397246204510
+      spriteID: b41ea9a7ef2622f4cad84ec649503ad4
+      internalID: 993062281
       vertices: []
       indices: 
       edges: []
@@ -1040,20 +1040,20 @@ TextureImporter:
       name: Acordeon2_36
       rect:
         serializedVersion: 2
-        x: 81
-        y: 48
-        width: 7
-        height: 6
+        x: 82
+        y: 49
+        width: 5
+        height: 4
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 2097d6d3b8483d6b0800000000000000
-      internalID: -5272725005154813694
+      spriteID: 2e5a484a62fb1df4caaa80df766ed1b3
+      internalID: -1624722841
       vertices: []
       indices: 
       edges: []
@@ -1062,20 +1062,20 @@ TextureImporter:
       name: Acordeon2_37
       rect:
         serializedVersion: 2
-        x: 81
-        y: 27
-        width: 8
-        height: 23
+        x: 82
+        y: 28
+        width: 6
+        height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 973a0e78a48d8e4a0800000000000000
-      internalID: -6563758642273672327
+      spriteID: 29035ffd52b73c24c9fb44861dfbdd64
+      internalID: -356409406
       vertices: []
       indices: 
       edges: []
@@ -1084,20 +1084,20 @@ TextureImporter:
       name: Acordeon2_38
       rect:
         serializedVersion: 2
-        x: 1041
-        y: 39
-        width: 6
-        height: 9
+        x: 995
+        y: 36
+        width: 5
+        height: 6
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: d1a058afe7cc009b0800000000000000
-      internalID: -5115864330951914979
+      spriteID: 4f99c901b4eb06e4bafbf6509ea1f4fc
+      internalID: 1583336257
       vertices: []
       indices: 
       edges: []
@@ -1106,20 +1106,20 @@ TextureImporter:
       name: Acordeon2_39
       rect:
         serializedVersion: 2
-        x: 994
-        y: 35
-        width: 7
-        height: 8
+        x: 1042
+        y: 40
+        width: 4
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 65e40df891d2ac670800000000000000
-      internalID: 8559703629581274710
+      spriteID: 3bad91b811160a341a27a8f36291a007
+      internalID: 1355191813
       vertices: []
       indices: 
       edges: []
@@ -1128,20 +1128,20 @@ TextureImporter:
       name: Acordeon2_40
       rect:
         serializedVersion: 2
-        x: 81
-        y: 23
-        width: 8
-        height: 6
+        x: 82
+        y: 24
+        width: 6
+        height: 4
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ba37218a9903ec4a0800000000000000
-      internalID: -6571261369779063893
+      spriteID: ab3ec3a017d58594fb476c2191ea8e01
+      internalID: -1081683679
       vertices: []
       indices: 
       edges: []
@@ -1150,20 +1150,20 @@ TextureImporter:
       name: Acordeon2_41
       rect:
         serializedVersion: 2
-        x: 994
-        y: 23
-        width: 7
-        height: 10
+        x: 995
+        y: 24
+        width: 5
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: d5d215d67c74e1350800000000000000
-      internalID: 5989303476307438941
+      spriteID: f8ad8226d20dff24ca1a63183a7ee77d
+      internalID: 15173329
       vertices: []
       indices: 
       edges: []
@@ -1172,20 +1172,20 @@ TextureImporter:
       name: Acordeon2_42
       rect:
         serializedVersion: 2
-        x: 81
-        y: 11
-        width: 8
-        height: 10
+        x: 82
+        y: 12
+        width: 6
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 707d09da4b5e095e0800000000000000
-      internalID: -1904770078208895225
+      spriteID: c3484f5cd5d252142b56aa3c02085afc
+      internalID: -1265056573
       vertices: []
       indices: 
       edges: []
@@ -1194,20 +1194,20 @@ TextureImporter:
       name: Acordeon2_43
       rect:
         serializedVersion: 2
-        x: 82
-        y: 7
-        width: 7
-        height: 6
+        x: 83
+        y: 8
+        width: 5
+        height: 4
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: bc4355425e4777560800000000000000
-      internalID: 7311441047565186251
+      spriteID: 1ba3fedd181b115468c1a327baf44012
+      internalID: -1315279255
       vertices: []
       indices: 
       edges: []
@@ -1216,20 +1216,20 @@ TextureImporter:
       name: Acordeon2_44
       rect:
         serializedVersion: 2
-        x: 81
+        x: 82
         y: 0
-        width: 8
-        height: 7
+        width: 6
+        height: 6
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: edf01bd024b8528a0800000000000000
-      internalID: -6330500585385553954
+      spriteID: b4d0aedb3989512418768ea85f96484a
+      internalID: 1489772732
       vertices: []
       indices: 
       edges: []
@@ -1238,7 +1238,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 75e55716ba48d3a4a96abc6d7fce77d2
     internalID: 0
     vertices: []
     indices: 
@@ -1247,7 +1247,52 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Acordeon2_0: 229502987
+      Acordeon2_1: -898651581
+      Acordeon2_10: -288625799
+      Acordeon2_11: -1699092976
+      Acordeon2_12: 2049715298
+      Acordeon2_13: 1454664244
+      Acordeon2_14: -615324944
+      Acordeon2_15: -261989451
+      Acordeon2_16: -737332446
+      Acordeon2_17: 2132497736
+      Acordeon2_18: -1548546342
+      Acordeon2_19: 1980717234
+      Acordeon2_2: -1632869514
+      Acordeon2_20: 943682958
+      Acordeon2_21: -987098013
+      Acordeon2_22: -434475010
+      Acordeon2_23: 357266466
+      Acordeon2_24: -1546140763
+      Acordeon2_25: 934634862
+      Acordeon2_26: 1487591913
+      Acordeon2_27: -2088873998
+      Acordeon2_28: 563111708
+      Acordeon2_29: -199794944
+      Acordeon2_3: -1213045761
+      Acordeon2_30: 577681716
+      Acordeon2_31: 929903766
+      Acordeon2_32: -1448788245
+      Acordeon2_33: 1418048671
+      Acordeon2_34: 533247326
+      Acordeon2_35: 993062281
+      Acordeon2_36: -1624722841
+      Acordeon2_37: -356409406
+      Acordeon2_38: 1583336257
+      Acordeon2_39: 1355191813
+      Acordeon2_4: -800071003
+      Acordeon2_40: -1081683679
+      Acordeon2_41: 15173329
+      Acordeon2_42: -1265056573
+      Acordeon2_43: -1315279255
+      Acordeon2_44: 1489772732
+      Acordeon2_5: 193811953
+      Acordeon2_6: -100833068
+      Acordeon2_7: 1512961759
+      Acordeon2_8: -2015372820
+      Acordeon2_9: -105290726
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
